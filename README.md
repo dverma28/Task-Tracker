@@ -2,7 +2,7 @@
 Task tracker is a project used to track and manage your tasks
 
 ## Project URL
-(https://roadmap.sh/projects/task-tracker)Task Manager
+[Task Manager](https://roadmap.sh/projects/task-tracker)
 
 ### **Detailed Explanation**
 
